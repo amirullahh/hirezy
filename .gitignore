@@ -21,3 +21,9 @@ reports/
 # Ignore entire data and docs directories
 data/
 docs/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
