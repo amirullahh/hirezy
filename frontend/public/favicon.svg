@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HIREZY favicon">
+  <defs>
+    <linearGradient id="g" x1="12" y1="8" x2="52" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B63F6"/>
+      <stop offset="0.55" stop-color="#1199F4"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="#F4FBFF"/>
+  <path d="M17 12H39L48 21V43C48 46.31 45.31 49 42 49H17C13.69 49 11 46.31 11 43V18C11 14.69 13.69 12 17 12Z" fill="white" stroke="url(#g)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M39 12V19C39 20.1 39.9 21 41 21H48" stroke="url(#g)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="24" r="4" fill="url(#g)"/>
+  <path d="M17 35C17 31.13 20.13 28 24 28C27.87 28 31 31.13 31 35V36H17V35Z" fill="url(#g)"/>
+  <circle cx="40" cy="40" r="10" fill="white" stroke="url(#g)" stroke-width="4"/>
+  <path d="M46.5 46.5L54 54" stroke="#0B63F6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M35.5 39.6L39.1 43.2L45.4 36.6" stroke="#0B63F6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
